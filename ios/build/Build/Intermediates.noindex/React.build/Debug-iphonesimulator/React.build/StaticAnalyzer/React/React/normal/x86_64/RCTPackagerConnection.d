@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/React/DevSupport/RCTPackagerConnection.mm \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/React/Base/RCTBundleURLProvider.h \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/Libraries/WebSocket/RCTReconnectingWebSocket.h \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h

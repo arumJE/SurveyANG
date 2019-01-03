@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>7FB1C9AC-D582-4F57-AA71-8FBDC1EE4297</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7FB1C9AC-D582-4F57-AA71-8FBDC1EE4297.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SurveyANG project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SurveyANG</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project SurveyANG with scheme SurveyANG and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>568155976.10325003</real>
+			<key>timeStoppedRecording</key>
+			<real>568155978.01899302</real>
+			<key>title</key>
+			<string>Building project SurveyANG with scheme SurveyANG and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>7FB1C9AC-D582-4F57-AA71-8FBDC1EE4297</string>
+		</dict>
+		<key>D4D4F128-3BC5-40D0-A686-156CA50CDE85</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D4D4F128-3BC5-40D0-A686-156CA50CDE85.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SurveyANG project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SurveyANG</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project SurveyANG with scheme SurveyANG and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>568140615.61723006</real>
+			<key>timeStoppedRecording</key>
+			<real>568140644.13957</real>
+			<key>title</key>
+			<string>Building project SurveyANG with scheme SurveyANG and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>D4D4F128-3BC5-40D0-A686-156CA50CDE85</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

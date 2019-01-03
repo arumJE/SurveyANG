@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.m \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/arumgaladima/SurveyANG/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryView.h \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryViewContent.h \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
+  /Users/arumgaladima/SurveyANG/node_modules/react-native/Libraries/Text/TextInput/RCTTextSelection.h
